@@ -1,3 +1,5 @@
+An **ERC-20 contract** is a standardized Ethereum smart contract for creating and managing fungible tokens. It defines essential functions like transferring tokens, checking balances, and approving allowances, ensuring interoperability across wallets, exchanges, and dApps. Widely used in DeFi, governance, and tokenized assets, ERC-20 simplifies token integration and promotes seamless blockchain interactions.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
